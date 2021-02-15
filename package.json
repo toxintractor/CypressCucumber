@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run --spec **/*.feature",
+    "test": "cypress run --spec 'cypress/integration/**/*.feature'",
     "test:all": "cypress run --spec \"**/*.features\"",
     "testopen": "cypress open"
   },
