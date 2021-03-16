@@ -1,0 +1,173 @@
+[
+  {
+    "description": "    I can add, toggle and remove todos",
+    "keyword": "Feature",
+    "name": "todos: Basic operations",
+    "line": 1,
+    "id": "todos:-basic-operations",
+    "tags": [],
+    "uri": "todosBasicOperations.feature",
+    "elements": [
+      {
+        "id": "todos:-basic-operations;i-should-be-able-to-add-todos",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "I should be able to add todos",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I navigate to the todos page",
+            "result": {
+              "status": "passed",
+              "duration": 1898000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "I type \"item1\" in the todo input and press enter",
+            "result": {
+              "status": "passed",
+              "duration": 383000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "I type \"item2\" in the todo input and press enter",
+            "result": {
+              "status": "passed",
+              "duration": 309000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I type \"item3\" in the todo input and press enter",
+            "result": {
+              "status": "passed",
+              "duration": 335000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I expect to have 3 todo items",
+            "result": {
+              "status": "passed",
+              "duration": 46000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "todos:-basic-operations;i-should-be-able-to-toggle-todos",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "I should be able to toggle todos",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "I toggle the 1 th todo item",
+            "result": {
+              "status": "passed",
+              "duration": 179000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "I toggle the 2 th todo item",
+            "result": {
+              "status": "passed",
+              "duration": 95000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "I expect the 1 th todo item to be checked",
+            "result": {
+              "status": "passed",
+              "duration": 33000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "I expect the 2 th todo item to be checked",
+            "result": {
+              "status": "passed",
+              "duration": 21000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "I expect the 3 th todo item to not be checked",
+            "result": {
+              "status": "passed",
+              "duration": 21000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "todos:-basic-operations;i-should-be-able-to-remove-todos",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "I should be able to remove todos",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "I click the remove button of the 1 th todo item",
+            "result": {
+              "status": "passed",
+              "duration": 206000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "I expect to have 2 todo items",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "I expect the todo item with \"item3\" to not exist",
+            "result": {
+              "status": "passed",
+              "duration": 22000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
