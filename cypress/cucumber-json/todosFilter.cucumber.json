@@ -23,7 +23,7 @@
             "name": "I navigate to the todos page",
             "result": {
               "status": "passed",
-              "duration": 470000000
+              "duration": 429000000
             }
           }
         ]
@@ -43,7 +43,7 @@
             "name": "I type 'item1' in the todo input and press enter",
             "result": {
               "status": "passed",
-              "duration": 311000000
+              "duration": 316000000
             }
           }
         ]
@@ -63,7 +63,7 @@
             "name": "I type 'item2' in the todo input and press enter",
             "result": {
               "status": "passed",
-              "duration": 484000000
+              "duration": 480000000
             }
           }
         ]
@@ -83,7 +83,7 @@
             "name": "I type 'item3' in the todo input and press enter",
             "result": {
               "status": "passed",
-              "duration": 399000000
+              "duration": 433000000
             }
           }
         ]
@@ -103,7 +103,7 @@
             "name": "I expect to see \"3 items left\" in the filter section",
             "result": {
               "status": "passed",
-              "duration": 109000000
+              "duration": 58000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "I toggle the 2 th todo item",
             "result": {
               "status": "passed",
-              "duration": 91000000
+              "duration": 89000000
             }
           },
           {
@@ -123,7 +123,7 @@
             "name": "I expect to see \"2 items left\" in the filter section",
             "result": {
               "status": "passed",
-              "duration": 46000000
+              "duration": 39000000
             }
           },
           {
@@ -133,7 +133,7 @@
             "name": "I type \"item4\" in the todo input and press enter",
             "result": {
               "status": "passed",
-              "duration": 333000000
+              "duration": 321000000
             }
           },
           {
@@ -143,7 +143,7 @@
             "name": "I expect to see \"3 items left\" in the filter section",
             "result": {
               "status": "passed",
-              "duration": 59000000
+              "duration": 52000000
             }
           }
         ]
@@ -163,7 +163,7 @@
             "name": "I click the Active filter button",
             "result": {
               "status": "passed",
-              "duration": 154000000
+              "duration": 293000000
             }
           },
           {
@@ -173,7 +173,7 @@
             "name": "I expect to have 3 todo items",
             "result": {
               "status": "passed",
-              "duration": 21000000
+              "duration": 42000000
             }
           },
           {
@@ -183,7 +183,7 @@
             "name": "I click the All filter button",
             "result": {
               "status": "passed",
-              "duration": 106000000
+              "duration": 134000000
             }
           },
           {
@@ -193,7 +193,7 @@
             "name": "I toggle the 1 th todo item",
             "result": {
               "status": "passed",
-              "duration": 128000000
+              "duration": 107000000
             }
           },
           {
@@ -203,7 +203,7 @@
             "name": "I click the Active filter button",
             "result": {
               "status": "passed",
-              "duration": 171000000
+              "duration": 170000000
             }
           },
           {
@@ -213,7 +213,7 @@
             "name": "I expect to have 2 todo items",
             "result": {
               "status": "passed",
-              "duration": 68000000
+              "duration": 66000000
             }
           }
         ]
@@ -233,7 +233,7 @@
             "name": "I click the Completed filter button",
             "result": {
               "status": "passed",
-              "duration": 298000000
+              "duration": 225000000
             }
           },
           {
@@ -243,7 +243,7 @@
             "name": "I expect to have 2 todo items",
             "result": {
               "status": "passed",
-              "duration": 72000000
+              "duration": 66000000
             }
           },
           {
@@ -253,7 +253,7 @@
             "name": "I click the All filter button",
             "result": {
               "status": "passed",
-              "duration": 104000000
+              "duration": 152000000
             }
           },
           {
@@ -263,7 +263,7 @@
             "name": "I toggle the 2 th todo item",
             "result": {
               "status": "passed",
-              "duration": 149000000
+              "duration": 127000000
             }
           },
           {
@@ -273,7 +273,7 @@
             "name": "I click the Completed filter button",
             "result": {
               "status": "passed",
-              "duration": 114000000
+              "duration": 154000000
             }
           },
           {
@@ -283,7 +283,7 @@
             "name": "I expect to have 3 todo items",
             "result": {
               "status": "passed",
-              "duration": 26000000
+              "duration": 70000000
             }
           }
         ]
@@ -303,7 +303,7 @@
             "name": "I click clear completed button",
             "result": {
               "status": "passed",
-              "duration": 153000000
+              "duration": 242000000
             }
           },
           {
@@ -313,7 +313,7 @@
             "name": "I click the All filter button",
             "result": {
               "status": "passed",
-              "duration": 117000000
+              "duration": 185000000
             }
           },
           {
@@ -323,7 +323,7 @@
             "name": "I expect to have 1 todo items",
             "result": {
               "status": "passed",
-              "duration": 33000000
+              "duration": 40000000
             }
           }
         ]

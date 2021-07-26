@@ -1,4 +1,4 @@
-const { Todos } = require("../pages/todosObject");
+const { Todos } = require("../pages/TodosObject");
 
 When(`I navigate to the todos page`, () => {
   cy.visit(Todos.baseUrl);
