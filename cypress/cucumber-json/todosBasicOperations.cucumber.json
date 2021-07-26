@@ -23,7 +23,7 @@
             "name": "I navigate to the todos page",
             "result": {
               "status": "passed",
-              "duration": 1898000000
+              "duration": 385000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "I type \"item1\" in the todo input and press enter",
             "result": {
               "status": "passed",
-              "duration": 383000000
+              "duration": 273000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "I type \"item2\" in the todo input and press enter",
             "result": {
               "status": "passed",
-              "duration": 309000000
+              "duration": 237000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "I type \"item3\" in the todo input and press enter",
             "result": {
               "status": "passed",
-              "duration": 335000000
+              "duration": 344000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "I expect to have 3 todo items",
             "result": {
               "status": "passed",
-              "duration": 46000000
+              "duration": 87000000
             }
           }
         ]
@@ -83,7 +83,7 @@
             "name": "I toggle the 1 th todo item",
             "result": {
               "status": "passed",
-              "duration": 179000000
+              "duration": 287000000
             }
           },
           {
@@ -93,7 +93,7 @@
             "name": "I toggle the 2 th todo item",
             "result": {
               "status": "passed",
-              "duration": 95000000
+              "duration": 147000000
             }
           },
           {
@@ -103,7 +103,7 @@
             "name": "I expect the 1 th todo item to be checked",
             "result": {
               "status": "passed",
-              "duration": 33000000
+              "duration": 32000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "I expect the 2 th todo item to be checked",
             "result": {
               "status": "passed",
-              "duration": 21000000
+              "duration": 30000000
             }
           },
           {
@@ -123,7 +123,7 @@
             "name": "I expect the 3 th todo item to not be checked",
             "result": {
               "status": "passed",
-              "duration": 21000000
+              "duration": 33000000
             }
           }
         ]
@@ -143,7 +143,7 @@
             "name": "I click the remove button of the 1 th todo item",
             "result": {
               "status": "passed",
-              "duration": 206000000
+              "duration": 196000000
             }
           },
           {
@@ -153,7 +153,7 @@
             "name": "I expect to have 2 todo items",
             "result": {
               "status": "passed",
-              "duration": 16000000
+              "duration": 56000000
             }
           },
           {
@@ -163,7 +163,7 @@
             "name": "I expect the todo item with \"item3\" to not exist",
             "result": {
               "status": "passed",
-              "duration": 22000000
+              "duration": 29000000
             }
           }
         ]
